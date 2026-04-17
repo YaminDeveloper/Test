@@ -1,25 +1,31 @@
 {
+  "versionCode": 5,
+  "versionName": "1.2.5",
   "showDialog": true,
-  "versionCode": 440604,
-  "versionName": "44.6.3",
-  "forceUpdate": true,
-  "delayMinutes": 0,
+  "forceUpdate": false,
+  "delayMinutes": 10,
+
   "changelogTitle": {
-    "en": "Update MN-TikTok Pro 44.6.3",
-    "ar": "تحديث MN-TikTok Pro 44.6.3"
+    "en": "Update Available",
+    "ar": "تحديث متوفر"
   },
+
   "changelog": {
-    "en": "➜ Patch base update 04-04-2026.\n➜ Please update to continue working❤️.",
-    "ar": "➜ تحديث القاعدة 04-04-2026.\n➜ يرجى التحديث لمواصلة العمل❤️."
+    "en": "• New UI Design\n• Bug Fixes\n• Performance Improved\n• Added New Features",
+    "ar": "• تصميم جديد\n• إصلاح الأخطاء\n• تحسين الأداء\n• ميزات جديدة"
   },
-  "patchedBy": "Patched By Ismail Mods - Telegram: @APK_MN312001",
+
+  "patchedBy": "Modded by Ismail Mods",
+
   "updateButtonText": {
     "en": "Update Now",
     "ar": "تحديث الآن"
   },
+
   "laterButtonText": {
     "en": "Later",
-    "ar": "لاحقاً"
+    "ar": "لاحقًا"
   },
-  "updateUrl": "https://shortxlinks.in/TikTok-Pro"
+
+  "updateUrl": "https://your-update-link.com/app.apk"
 }
