@@ -1,25 +1,29 @@
 {
+  "versionCode": 2,
+  "versionName": "2.0",
   "showDialog": true,
-  "versionCode": 440604,
-  "versionName": "44.6.3",
   "forceUpdate": false,
-  "delayMinutes": 0,
+  "delayMinutes": 30,
+  "updateUrl": "https://example.com/myapp_v2.apk",
+  "patchedBy": "Patched By: Ismail Mods",
   "changelogTitle": {
-    "en": "Update MN-TikTok Pro 44.6.3",
-    "ar": "تحديث MN-TikTok Pro 44.6.3"
+    "en": "Update Available",
+    "ar": "تحديث متاح",
+    "hi": "अपडेट उपलब्ध है"
   },
   "changelog": {
-    "en": "➜ Patch base update 04-04-2026.\n➜ Please update to continue working❤️.",
-    "ar": "➜ تحديث القاعدة 04-04-2026.\n➜ يرجى التحديث لمواصلة العمل❤️."
+    "en": "• Bug fixes\n• New features added\n• Performance improved",
+    "ar": "• إصلاح الأخطاء\n• ميزات جديدة\n• تحسين الأداء",
+    "hi": "• बग ठीक किए गए\n• नई सुविधाएं जोड़ी गईं\n• प्रदर्शन बेहतर हुआ"
   },
-  "patchedBy": "Patched By Ismail Mods - Telegram: @APK_MN312001",
   "updateButtonText": {
     "en": "Update Now",
-    "ar": "تحديث الآن"
+    "ar": "تحديث الآن",
+    "hi": "अभी अपडेट करें"
   },
   "laterButtonText": {
     "en": "Later",
-    "ar": "لاحقاً"
-  },
-  "updateUrl": "https://shortxlinks.in/TikTok-Pro"
+    "ar": "لاحقاً",
+    "hi": "बाद में"
+  }
 }
