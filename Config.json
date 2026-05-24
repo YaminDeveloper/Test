@@ -6,24 +6,8 @@
   "delayMinutes": 30,
   "updateUrl": "https://www.dropbox.com/scl/fi/wkj4vndjohpt3pufu958d/ismailmods_1.0.apk?rlkey=b363dc8cw8yntygs0uncg5gcf&st=3nnox77z&dl=1",
   "patchedBy": "Patched By: Ismail Mods",
-  "changelogTitle": {
-    "en": "Update Available",
-    "ar": "تحديث متاح",
-    "hi": "अपडेट उपलब्ध है"
-  },
-  "changelog": {
-    "en": "• Bug fixes\n• New features added\n• Performance improved",
-    "ar": "• إصلاح الأخطاء\n• ميزات جديدة\n• تحسين الأداء",
-    "hi": "• बग ठीक किए गए\n• नई सुविधाएं जोड़ी गईं\n• प्रदर्शन बेहतर हुआ"
-  },
-  "updateButtonText": {
-    "en": "Update Now",
-    "ar": "تحديث الآن",
-    "hi": "अभी अपडेट करें"
-  },
-  "laterButtonText": {
-    "en": "Later",
-    "ar": "لاحقاً",
-    "hi": "बाद में"
-  }
+  "changelogTitle": "Update Available",
+  "changelog": "• Bug fixes\n• New features added\n• Performance improved",
+  "updateButtonText": "Update Now",
+  "laterButtonText": "Later"
 }
