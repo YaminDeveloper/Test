@@ -4,7 +4,7 @@
   "showDialog": true,
   "forceUpdate": false,
   "delayMinutes": 30,
-  "updateUrl": "https://example.com/myapp_v2.apk",
+  "updateUrl": "https://www.dropbox.com/scl/fi/eaxdw82xcgx8uvusfh418/DesignLab-4.1-BN.apk?rlkey=2j0ymw1vj0oqhykbaoqy3wb0v&st=781x1j2g&dl=1",
   "patchedBy": "Patched By: Ismail Mods",
   "changelogTitle": {
     "en": "Update Available",
